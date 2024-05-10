@@ -1,12 +1,14 @@
-module.exports = {
-      themeConfig: {
-        search: {
-          provider: 'local'
-        },
-       
-      },
-    base:'/vitepresswiki/',
-    title: '刘明泰的博客',
-    description: '个人联系方式 188194448261(同微信)',
-    
-  }
+
+//default options
+module.exports = ({
+  themeConfig: {
+    search: {
+      provider: 'local'
+    },
+
+  },
+  base: '/vitepresswiki/',
+  title: '刘明泰的博客',
+  description: '个人联系方式 188194448261(同微信)',
+
+})

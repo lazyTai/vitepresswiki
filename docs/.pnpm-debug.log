@@ -1,0 +1,51 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 debug pnpm:package-manifest": {
+    "initial": {
+      "name": "a1",
+      "version": "1.0.0",
+      "main": "index.js",
+      "repository": "https://gitee.com/lazytai/obsidian.git",
+      "author": "lazyTai <1352983234@qq.com>",
+      "license": "MIT",
+      "devDependencies": {
+        "vitepress": "^1.1.4"
+      },
+      "scripts": {
+        "docs:dev": "node run.js && vitepress dev docs",
+        "docs:build": "vitepress build docs",
+        "docs:serve": "vitepress serve docs"
+      },
+      "dependencies": {}
+    },
+    "prefix": "E:\\wiki\\wikiob\\a1"
+  },
+  "2 debug pnpm:context": {
+    "currentLockfileExists": false,
+    "storeDir": "E:\\.pnpm-store\\v3",
+    "virtualStoreDir": "E:\\wiki\\wikiob\\a1\\node_modules\\.pnpm"
+  },
+  "3 debug pnpm:stage": {
+    "prefix": "E:\\wiki\\wikiob\\a1",
+    "stage": "resolution_started"
+  },
+  "4 warn pnpm": {
+    "message": "Moving vitepress that was installed by a different package manager to \"node_modules/.ignored",
+    "prefix": "E:\\wiki\\wikiob\\a1"
+  },
+  "5 error pnpm": {
+    "errno": -4048,
+    "code": "EPERM",
+    "syscall": "rename",
+    "path": "E:\\wiki\\wikiob\\a1\\node_modules\\vitepress",
+    "dest": "E:\\wiki\\wikiob\\a1\\node_modules\\.ignored\\vitepress",
+    "err": {
+      "name": "pnpm",
+      "message": "EPERM: operation not permitted, rename 'E:\\wiki\\wikiob\\a1\\node_modules\\vitepress' -> 'E:\\wiki\\wikiob\\a1\\node_modules\\.ignored\\vitepress'",
+      "code": "EPERM",
+      "stack": "pnpm: EPERM: operation not permitted, rename 'E:\\wiki\\wikiob\\a1\\node_modules\\vitepress' -> 'E:\\wiki\\wikiob\\a1\\node_modules\\.ignored\\vitepress'"
+    }
+  }
+}
