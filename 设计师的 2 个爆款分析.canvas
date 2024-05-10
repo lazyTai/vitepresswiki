@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"7d74bbafd01a5533","type":"text","text":"Page ","x":-520,"y":-180,"width":250,"height":60},
+		{"id":"c57cd87911011134","type":"text","text":"Task desc","x":-520,"y":100,"width":250,"height":50},
+		{"id":"73c5fedf8c55d9ea","type":"text","text":"配合 with other","x":-160,"y":-150,"width":250,"height":60},
+		{"id":"112b6151d4edd2b4","type":"text","text":"Deveoplmenmt  git  ","x":-160,"y":-90,"width":250,"height":60},
+		{"id":"9bb43f871becb576","x":-520,"y":-90,"width":250,"height":60,"type":"text","text":"Src/views/manage/make/sampleconfirm/keshu_analyse/list. Vue:254"}
+	],
+	"edges":[]
+}

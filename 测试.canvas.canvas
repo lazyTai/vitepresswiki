@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"45f49a3e0c10737c","type":"text","text":"111 这个颜色的 fabricCost 是 3724 \n为什么是  3724 而不是 32.99","x":-60,"y":-150,"width":250,"height":50},
+		{"id":"3f8bef622604616b","type":"text","text":"什么时候保存的 3724111\n","x":-60,"y":-50,"width":250,"height":60},
+		{"id":"c2ee6e1937b07323","type":"text","text":"1111第一次报价 36","x":-60,"y":40,"width":250,"height":120},
+		{"id":"67d46f98b92057ae","type":"text","text":"1. newProId:22119\n2. developmentId:36764\n3. quotationType:1\n4. proColorId:12400\n5. checkPricesType: 藏蓝色","x":260,"y":-195,"width":360,"height":140}
+	],
+	"edges":[]
+}

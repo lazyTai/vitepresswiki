@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"563e49ac263b6c3c","type":"text","text":"写一个 obsidian插件 ","x":-126,"y":-260,"width":250,"height":60,"color":"6"},
+		{"id":"6382b440b1cbb5d6","type":"text","text":"启动模板项目","x":-60,"y":-200,"width":250,"height":60},
+		{"id":"69548d4a779185a6","type":"text","text":"```text\nnpx create-obsidian-plugin\n```","x":190,"y":-200,"width":530,"height":60},
+		{"id":"5c9e5983aefc45c2","type":"text","text":"```text\nnpm run build\n```","x":190,"y":-140,"width":250,"height":60},
+		{"id":"c6ab56c511e649d4","type":"text","text":"如何安装到 ob","x":-60,"y":-60,"width":250,"height":60},
+		{"id":"70fa529954445feb","type":"file","file":"attachments/Pasted image 20240424153424.png","x":190,"y":-60,"width":400,"height":92},
+		{"id":"48ee90dab787452f","type":"text","text":"热加载","x":-126,"y":200,"width":250,"height":50},
+		{"id":"de00665591118765","type":"text","text":"快界面 fresh","x":124,"y":140,"width":250,"height":60},
+		{"id":"54c8c686245c9386","x":-310,"y":520,"width":250,"height":23,"type":"text","text":"加入空文件删除"}
+	],
+	"edges":[]
+}

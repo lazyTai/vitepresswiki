@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"234b2e9b77e992f5","x":40,"y":-249,"width":250,"height":60,"type":"text","text":"pc"},
+		{"id":"bf17edabd760fe9a","x":60,"y":-183,"width":400,"height":109,"type":"text","text":"界面\nmanage/devMaterial/developer/developerList?develType=2&navId=374"},
+		{"id":"d7eb0e84314ccd03","x":-380,"y":-249,"width":250,"height":60,"type":"text","text":"移动端"},
+		{"id":"1a5e4643fd67503a","x":-336,"y":-189,"width":250,"height":60,"type":"text","text":"界面"}
+	],
+	"edges":[]
+}

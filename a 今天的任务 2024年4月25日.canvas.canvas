@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e5eb90634bba96bc","type":"text","text":"1、面料批复超时提醒 (洵楷)  \n2、[客服的10个报表](https://www.teambition.com/task/6617ca0b54de4cf8012bf02d) （建峰 25-26号）  \n3、周排品的7个细节优化 （建峰 24号）  \n4、口碑分数据看板(打横的那种模式) (洵楷,明泰27)  \n5、大花的各类提醒 （继贤)  \n6、打版各阶段超时提醒 (大花、其他店)（继贤)  \n7   供应商账单 bug \n","x":-298,"y":-194,"width":438,"height":274},
+		{"id":"d9fb12a453ba5710","type":"text","text":"A 今天的任务  2024 年 4 月 25 日","x":-329,"y":-300,"width":250,"height":60},
+		{"id":"d3bc616c614dac81","type":"text","text":"123123","x":-64,"y":-509,"width":250,"height":60},
+		{"id":"27ff103078ca5455","type":"text","text":"3123  [[2024年4月25日1212]]","x":140,"y":-360,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"472f2560c6b8fa8c","fromNode":"d3bc616c614dac81","fromSide":"bottom","toNode":"27ff103078ca5455","toSide":"top"}
+	]
+}

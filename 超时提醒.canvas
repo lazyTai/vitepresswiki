@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9d41deae8eeeae17","type":"text","text":"字典  timeout_info_type","x":-200,"y":0,"width":250,"height":60},
+		{"id":"f26a6e156e01dbc0","type":"text","text":"alter table plm_product_devel_alert  \nadd column `info_type` tinyint not null comment '信息类型 1:牛仔 2：毛织 3绣花 4印花 5打揽';\n\n","x":14240,"y":-1720,"width":320,"height":160}
+	],
+	"edges":[]
+}

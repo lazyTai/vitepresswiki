@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"570225b6e81252a2","type":"text","text":"gethistorycheckpricebynewproid","x":-300,"y":-120,"width":250,"height":46},
+		{"id":"db52418dcf5d2a99","type":"text","text":"getcheckpricespricesloglist","x":-320,"y":100,"width":250,"height":60},
+		{"id":"855c60c37d0c4de1","type":"text","text":"developType","x":-120,"y":0,"width":250,"height":50},
+		{"id":"dbdcc6db3f12619d","type":"text","text":"checkPricesType","x":-120,"y":-74,"width":250,"height":60},
+		{"id":"ea6d85b30f3ebe12","type":"text","text":"developmentId","x":-180,"y":180,"width":250,"height":60},
+		{"id":"8b8671534897a3dd","type":"text","text":"changeReason","x":-180,"y":240,"width":250,"height":60},
+		{"id":"a66cf4ac2e912111","type":"text","text":"Old/newProcessCost","x":-180,"y":300,"width":250,"height":60},
+		{"id":"9bf25e3014151f86","type":"text","text":"newProCheckId","x":-180,"y":360,"width":250,"height":60},
+		{"id":"087523869ccd76cb","type":"text","text":"proColorName","x":-175,"y":420,"width":250,"height":60},
+		{"id":"6321b9f46409fe14","type":"text","text":"判断","x":-420,"y":780,"width":250,"height":60},
+		{"id":"110c29c9f999e1ac","type":"text","text":"生成变更日志","x":-420,"y":940,"width":250,"height":60},
+		{"id":"4e130e2e60fd1b8e","type":"text","text":"确填 reason","x":-420,"y":860,"width":250,"height":60},
+		{"id":"dc79fb18ce135e63","type":"file","file":"attachments/Pasted image 20240507111528.png","x":-420,"y":1100,"width":400,"height":169},
+		{"id":"ecd132d91b564ce7","type":"text","text":"comparecheckpriceslog","x":-400,"y":620,"width":250,"height":60}
+	],
+	"edges":[]
+}

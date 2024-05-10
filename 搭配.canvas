@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"971398997d310ccb","x":-859,"y":-67,"width":250,"height":60,"type":"text","text":""},
+		{"id":"843098273acfc1b5","x":-402,"y":-229,"width":250,"height":60,"type":"text","text":""},
+		{"id":"9cc3a5b0decca749","x":-1209,"y":-263,"width":250,"height":60,"type":"text","text":""},
+		{"id":"bb242d51b70badd5","x":167,"y":-435,"width":250,"height":60,"type":"text","text":"界面原型\n[Fetching Title#17bt](https://modao.cc/proto/HDrSeRMrziv2u5bemRRs/sharing?view_mode=device&screen=rbpTwOdjh5w5D5RBX&canvasId=rcTwOdjhC3xCs3nc&from=sharing)\n"},
+		{"id":"f9bef009ac5a5903","x":57,"y":-319,"width":423,"height":199,"type":"text","text":"界面路径\n搭配  http://localhost:81/manage/listingPlan/match/list\n上线界面\nhttp://localhost:81/manage/listingPlan/index?navId=409\n"},
+		{"id":"e8f8cd9da4b0f132","x":525,"y":-339,"width":435,"height":272,"type":"text","text":"|   |   |   |   |   |   |\n|---|---|---|---|---|---|\n|1515|空|30|0|||\n|1514|完成多搭|5|0|||\n|1513|待添加多搭|4|0|||\n|1512|完成主搭|3|0|||\n|1511|缺搭配衣服|2|0|||\n|1510|缺搭配|1|0|"}
+	],
+	"edges":[]
+}
