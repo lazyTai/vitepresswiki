@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"44d1d7a0330b000c","x":-240,"y":-40,"width":250,"height":60,"type":"text","text":"审版意见（优化意见）"},
+		{"id":"7670b07dd7797d62","x":-240,"y":-260,"width":250,"height":60,"type":"text","text":"不通过原因"},
+		{"id":"976c49afb51cc7b3","x":60,"y":-255,"width":250,"height":50,"type":"text","text":"本版可见"},
+		{"id":"f80604d91cad7f1e","x":60,"y":-40,"width":250,"height":60,"type":"text","text":"下版可见"}
+	],
+	"edges":[]
+}
