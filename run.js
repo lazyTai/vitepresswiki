@@ -38,4 +38,4 @@ function generateIndexFile(folderPath) {
 }
 
 // 使用示例
-generateIndexFile('E:\\wiki\\wikiob\\a1\\');
+generateIndexFile('./');
