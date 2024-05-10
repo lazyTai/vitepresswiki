@@ -20,7 +20,8 @@ function generateIndexFile(folderPath) {
     const fileLinks = mdFiles.map(file => {
       const filePath = path.join('docs', file);
       console.log('filePath',filePath)
-      if(filePath=='docs\index.md'){
+
+      if(filePath=='docs\\index.md'){
           return '## 首页'
       }else{
         const stats = fs.statSync(path.join(docsFolderPath, file));
