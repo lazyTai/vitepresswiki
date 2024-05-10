@@ -1,5 +1,5 @@
 module.exports = {
-    // base:'liumingtai',
+    base:'vitepresswiki',
     title: '刘明泰的博客',
     description: '刘明泰的博客'
   }
