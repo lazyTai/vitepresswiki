@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"01487e8b9751de3f","type":"text","text":"采购单的分配逻辑","x":-260,"y":-560,"width":250,"height":60,"color":"4"},
+		{"id":"abb095c5ad7db976","type":"text","text":"采购单已经入库多少还有多少","x":-10,"y":-560,"width":250,"height":60},
+		{"id":"2a0a6c702874cf4e","type":"text","text":"1 汇总 sku 还有多少","x":-165,"y":-500,"width":250,"height":60,"color":"2"},
+		{"id":"44af1f94da4f5df2","type":"text","text":"/purchase/purchase/getreservedskubyproandsupplier","x":115,"y":-500,"width":250,"height":60},
+		{"id":"c3dad650fd32eb5e","type":"text","text":"2 分配给 po  (byproductcode)","x":-165,"y":-360,"width":250,"height":60,"color":"2"},
+		{"id":"99152f9784f78904","type":"text","text":"/purchase/reserved/addreserved  \n/**  \n* 第三方单据类型 1外采单 2生产单  \n*/  \nprivate byte orderType;  \n必传","x":115,"y":-330,"width":285,"height":110},
+		{"id":"128bc549ee8a5e6d","type":"text","text":"备注\n[预约采购单](预约采购单)\n","x":-289,"y":-140,"width":498,"height":391}
+	],
+	"edges":[]
+}

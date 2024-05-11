@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e2f2734594578175","x":-280,"y":-260,"width":250,"height":60,"type":"text","text":"Spy 的安装一定要安装 visual studio 吗？"},
+		{"id":"9971c0be40c77ded","x":-300,"y":-60,"width":250,"height":60,"type":"text","text":"Spy启动"},
+		{"id":"ae62099f93304c11","x":-300,"y":-180,"width":250,"height":60,"type":"text","text":"Spy 的独立安装"}
+	],
+	"edges":[]
+}
